@@ -486,7 +486,61 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":40.4226027243301,
+                 "id":24,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":24,
+                     "text":"Top Trumps",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":177.339212259486,
+                 "x":217.022186004322,
+                 "y":298.525755462844
+                }, 
+                {
+                 "height":61.1023365851465,
+                 "id":25,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":24,
+                     "text":"Measuring Prosperity",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":297.821139970329,
+                 "x":134.744768822818,
+                 "y":813.849522976139
+                }, 
+                {
+                 "height":61.1023,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":24,
+                     "text":"Measuring Well-being",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":297.821,
+                 "x":637.818505574537,
+                 "y":366.85938767308
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -604,7 +658,7 @@
          "y":0
         }],
  "nextlayerid":68,
- "nextobjectid":24,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
