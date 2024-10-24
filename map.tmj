@@ -495,51 +495,123 @@
                  "text":
                     {
                      "fontfamily":"LeBeaune",
-                     "pixelsize":24,
-                     "text":"Top Trumps",
+                     "pixelsize":18,
+                     "text":"Thomas",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":177.339212259486,
-                 "x":217.921304867835,
-                 "y":295.828398872302
+                 "x":169.920460896952,
+                 "y":196.661820119269
                 }, 
                 {
-                 "height":61.1023365851465,
-                 "id":25,
+                 "height":40.4226,
+                 "id":29,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
                      "fontfamily":"LeBeaune",
-                     "pixelsize":24,
-                     "text":"Measuring Prosperity",
+                     "pixelsize":18,
+                     "text":"Ubeidah",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":297.821139970329,
-                 "x":134.744768822818,
-                 "y":813.849522976139
+                 "width":177.339,
+                 "x":329.845764321131,
+                 "y":196.747336216901
                 }, 
                 {
-                 "height":61.1023,
-                 "id":28,
+                 "height":40.4226,
+                 "id":30,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
                      "fontfamily":"LeBeaune",
-                     "pixelsize":24,
-                     "text":"Measuring Well-being",
+                     "pixelsize":18,
+                     "text":"Easton",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":297.821,
-                 "x":637.818505574537,
-                 "y":366.85938767308
+                 "width":177.339,
+                 "x":172.961473731406,
+                 "y":326.344243833738
+                }, 
+                {
+                 "height":40.4226,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":18,
+                     "text":"Martin",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":177.339,
+                 "x":333.315941502268,
+                 "y":326.871725635616
+                }, 
+                {
+                 "height":40.4226,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":18,
+                     "text":"Isla",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":177.339,
+                 "x":1149.55574480538,
+                 "y":197.518093468118
+                }, 
+                {
+                 "height":40.4226,
+                 "id":33,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":18,
+                     "text":"Grace",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":177.339,
+                 "x":1298.34567706577,
+                 "y":199.012983305228
+                }, 
+                {
+                 "height":40.4226,
+                 "id":34,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":18,
+                     "text":"Georgina",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":177.339,
+                 "x":1124.09047751546,
+                 "y":324.785889432265
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -658,7 +730,7 @@
          "y":0
         }],
  "nextlayerid":68,
- "nextobjectid":29,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
